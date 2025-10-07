@@ -1,5 +1,7 @@
 # 🌿 Plant Disease Classification using ResNet50
 
+🎯 **Live Demo:** [👉 Try it on Streamlit](https://ml-recommendation-system-xnzjaorjb5rmdrqk7ivfx6.streamlit.app/)
+
 ## 🧠 Overview
 
 This project is a **Deep Learning-based Plant Disease Classification System** built using **TensorFlow** and a pre-trained **ResNet50** model.
@@ -88,11 +90,7 @@ streamlit run app.py
 
 ## 🖼️ App Preview
 
-*(You can add this once you take a screenshot of your Streamlit app UI)*
-
-```
-![App Screenshot](screenshot.png)
-```
+ 
 ---
 
 ### 📜 License
@@ -100,6 +98,13 @@ streamlit run app.py
 This project is open-source and available under the **MIT License**.
 
 ---
+## 🌐 Live Demo
+
+You can try the app directly here:  
+👉 [**Plant Disease Detection - Streamlit App**](https://ml-recommendation-system-xnzjaorjb5rmdrqk7ivfx6.streamlit.app/)
+
+---
+
 
 ### 👨‍💻 Author  
 

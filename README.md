@@ -93,19 +93,6 @@ streamlit run app.py
 ```
 ![App Screenshot](screenshot.png)
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are always welcome!
-If you’d like to improve the model or add more features:
-
-1. Fork this repository
-2. Create a new branch (`feature/your-feature`)
-3. Commit your changes
-4. Submit a pull request 🎯
-
 ---
 
 ### 📜 License

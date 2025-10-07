@@ -121,10 +121,4 @@ This project is open-source and available under the **MIT License**.
 💼 LinkedIn: [www.linkedin.com/in/mahmoud-ahmed-attiaa](https://www.linkedin.com/in/mahmoud-ahmed-attiaa)  
 🌍 GitHub: [https://github.com/MahmoudAttia111](https://github.com/MahmoudAttia111)
 
-
-تحب أظبطه لك بصيغة Markdown الجاهزة (يعني ملف README.md كامل تقدر ترفعه مباشرة) باسمك ورابط جيتهابك؟
-لو آه، ابعتلي:
-
-1. اسمك اللي عايز يظهر في الملف
-2. لينك حسابك على GitHub
-3. لينك LinkedIn (اختياري)
+ 
